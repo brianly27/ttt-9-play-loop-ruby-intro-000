@@ -2,7 +2,10 @@ def play(board)
   counter = 0
   while counter < 9
     turn(board)
+<<<<<<< HEAD
     counter += 1
+=======
+>>>>>>> 881eade2c32cf7815300354d6c99edb63f38559a
   end
 end
 
